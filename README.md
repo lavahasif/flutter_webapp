@@ -9,9 +9,9 @@ or
 flutter run  --release -d chrome
 
 WEB
-<img src="https://github.com/lavahasif/flutter_webapp/blob/master/images/lake.jpg" />
+<img src="https://github.com/lavahasif/flutter_webapp/blob/master/images/web.png" />
 MOBILE
-<img src="https://github.com/lavahasif/flutter_webapp/blob/master/images/lake.jpg" />
+<img src="https://github.com/lavahasif/flutter_webapp/blob/master/images/mobile.png" />
 
 ## Getting Started
 
