@@ -8,6 +8,8 @@ flutter run   -d chrome -v
 or
 flutter run  --release -d chrome
 
+You can view website here: https://lavahasif.github.io/deploy/
+
 WEB
 <img src="https://github.com/lavahasif/flutter_webapp/blob/master/images/web.png" />
 MOBILE
