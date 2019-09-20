@@ -1,6 +1,17 @@
-# flutter_appp
+# flutter webappp
 
-A new Flutter application.
+A new Flutter web application.
+if you are face any trouble while running this sample  in flutter 1.10+ pre version
+use this command:
+
+flutter run   -d chrome -v
+or
+flutter run  --release -d chrome
+
+WEB
+<img src="https://github.com/lavahasif/flutter_webapp/blob/master/images/lake.jpg" />
+MOBILE
+<img src="https://github.com/lavahasif/flutter_webapp/blob/master/images/lake.jpg" />
 
 ## Getting Started
 
